@@ -1,6 +1,7 @@
 Hello 
 Im trying Git
 It is cool
-Enjy
-pandago
+trying more git
+it is intresting
+I'm going to get a job
 
